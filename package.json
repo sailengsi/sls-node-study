@@ -6,6 +6,7 @@
   "author": "赛冷思 <silence@sailengsi.com>",
   "license": "MIT",
   "dependencies": {
-    "js-beautify": "^1.7.4"
+    "js-beautify": "^1.7.4",
+    "shelljs": "^0.7.8"
   }
 }
