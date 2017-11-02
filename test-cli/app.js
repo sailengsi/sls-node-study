@@ -9,7 +9,7 @@ var fs = require('fs'),
 
 var config = [
     {
-        path: 'app',
+        path: 'test',
         children: [
             {
                 path: 'module1',
