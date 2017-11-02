@@ -1,0 +1,11 @@
+{
+  "name": "sls-node-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitee.com:sls-node/sls-node-study.git",
+  "author": "赛冷思 <silence@sailengsi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-beautify": "^1.7.4"
+  }
+}
